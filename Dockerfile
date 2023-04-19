@@ -14,4 +14,4 @@ RUN apt-get update && \
 EXPOSE 8080
 
 # Run the application
-CMD ["java", "-jar", "/app/target/myproject.jar"]
+CMD ["java", "-jar", "/app/target/selenium-java-0.0.1-SNAPSHOT.jar"]
